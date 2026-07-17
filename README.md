@@ -14,30 +14,14 @@
 Built with FastAPI + Google Gemini, backed by SQLite, with Google Calendar, Slack, and Notion integrations for the business owner.
 
 <p align="center">
-  <a href="https://your-app.onrender.com/widget"><strong>→ Try the live demo</strong></a> ·
-  <a href="https://your-app.onrender.com/docs"><strong>→ API docs</strong></a> ·
-  <a href="#demo"><strong>→ Watch it work</strong></a>
+  <a href="https://meetric-61sn.onrender.com"><strong>→ Try the live demo</strong></a> ·
+  <a href="https://meetric-61sn.onrender.com/docs"><strong>→ API docs</strong></a> ·
 </p>
 
 ---
 
 <a id="demo"></a>
 ## 🎥 Demo
-
-<!--
-  TODO: you mentioned a demo video sits alongside these screenshots in your
-  demo/ folder — a couple of notes depending on what it is:
-  - If it's a screen recording (.mp4/.mov): GitHub will actually render an
-    inline, clickable-to-play video if you drag-and-drop the file directly
-    into the README editor on github.com (or into a PR/issue comment) — it
-    uploads to GitHub's own CDN and gives you a proper embeddable URL. Do
-    that once the repo is live, then swap the <img> below for the video.
-  - Fastest path: convert it to a looping GIF under ~8MB (gifski, ezgif.com,
-    or ScreenStudio's built-in export all work) and drop it at
-    demo/demo.gif — a GIF autoplays inline on GitHub with no click required,
-    which a linked video does not.
-  - Or upload it to YouTube/Loom and swap the link below.
--->
 
 <p align="center">
   <img src="demo/lead-ai-agent.gif" alt="Meetric — live conversation, Slack alert, and Google Calendar booking" width="720">
