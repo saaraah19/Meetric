@@ -1,0 +1,32 @@
+# ─── Web Framework ──────────────────────────────────────────────────
+fastapi==0.137.1
+uvicorn[standard]==0.49.0
+
+# ─── Data Validation ──────────────────────────────────────────────
+pydantic==2.13.4
+
+# ─── AI / Gemini ──────────────────────────────────────────────────
+google-genai==2.8.0
+
+# ─── Google Calendar ──────────────────────────────────────────────
+# google-auth est une dépendance transitive de google-genai et google-api-python-client
+# On ne la fixe donc pas pour éviter les conflits de version.
+google-api-python-client==2.127.0
+pytz==2024.1
+
+# ─── HTTP Client ──────────────────────────────────────────────────
+httpx==0.28.1
+
+# ─── Environment Variables ────────────────────────────────────────
+python-dotenv==1.0.1
+
+# ─── Rate limiting ──────────────────────────────────────────────────
+slowapi==0.1.9
+
+# ─── Testing ────────────────────────────────────────────────────────
+pytest==8.3.4
+pytest-asyncio==0.25.2
+
+# ─── Optional — Phase 2 additions (uncomment if/when you need them) ──
+# aiosqlite==0.20.0
+# sentry-sdk[fastapi]==2.*
